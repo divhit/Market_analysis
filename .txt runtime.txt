@@ -1,0 +1,5 @@
+[33m2c7409f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Add Netlify configuration files and update dependencies
+[33m366c313[m Initial commit: Surrey Market Analysis Dashboard
+[33mc900e8f[m Updated dashboard to exactly match local output structure and values
+[33m0e13750[m Fixed data loading structure to ensure consistency between local and Streamlit execution
+[33m1af7322[m Initial commit - Surrey Market Analysis complete implementation
