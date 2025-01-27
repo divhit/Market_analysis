@@ -267,7 +267,7 @@ class PricingScenarioAnalyzer:
     
     def _calculate_supply_level(self, scenario: Dict) -> float:
         """Calculate months of supply"""
-        base_supply = 14.2  # Current market supply level
+        base_supply = 27.8  # Current market supply level
         
         if 'supply_change' in scenario:
             supply_change = scenario['supply_change'] / 100
